@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Build and dependency directories
+build/
+dist/
+node_modules/
+vendor/
+target/
+bin/
+obj/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Swift/Xcode
+DerivedData/
+*.xcuserstate
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Backup / temp files
+*.swp
+*.swo
+*~
